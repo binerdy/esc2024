@@ -36,14 +36,18 @@ subjects:
     namespace: kubernetes-dashboard
 ```
 
+### Deploy resources
 Then instruct kubernetes to deploy.
 
 ```powershell
 > kubectl apply -f C:\Users\alme\source\repos\camp-2024\kubernetes-dashboard.yaml
 
-> kubectl -n kubernetes-dashboard create token admin-user
-
 > kubectl proxy
+```
+
+### Create token
+```powershell
+> kubectl -n kubernetes-dashboard create token admin-user
 ```
 
 Open the kubernetes dashboard:
