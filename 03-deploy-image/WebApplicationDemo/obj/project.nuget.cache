@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "cA0d/YIVqv8g2tJqOMdm/rch39n68egm9+TgrisqFaGylg+Lt5rhZ1mWAptAeEgmOxdZZ94oYIjyGiiNgCmxhQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\alme\\source\\repos\\camp-2024\\03-deploy-image\\WebApplicationDemo\\WebApplicationDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alme\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.6\\microsoft.visualstudio.azure.containers.tools.targets.1.19.6.nupkg.sha512"
+  ],
+  "logs": []
+}
